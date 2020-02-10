@@ -1,0 +1,9 @@
+Este es un archivo de prueba para la clase archivo.
+
+Es evidente el número de líneas, pero no es tan evidente la cantidad de:
+
+    Vocales, Minúsculas, Mayúsculas, etc.
+
+
+
+¿O sí lo es?
